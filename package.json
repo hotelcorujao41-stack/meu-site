@@ -1,0 +1,11 @@
+{
+  "name": "meu-site",
+  "version": "1.0.0",
+  "main": "servidor.js",
+  "scripts": {
+    "start": "node servidor.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
